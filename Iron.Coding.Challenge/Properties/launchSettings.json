@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Iron.Coding.Challenge": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
